@@ -12,7 +12,7 @@ A **dynamic, interactive API Dashboard** built with **HTML, CSS, and JavaScript*
 - 💱 **Currency Exchange Rates** – Fetches latest currency rates  
 - 🎮 **Trending Movies / No-key API** – Fetches random movies using a public JSON file  
 - 🧑‍💻 **GitHub User Info** – Fetch public info of any GitHub user  
-- ⚡ **Random Pokémon** – Fetches 6 random Pokémon with images, type, and HP  
+- ⚡ **Random Pokémon** – Fetches 3 random Pokémon with images, type, and HP  
 - 🤣 **Random Jokes** – Fetches jokes from Official Joke API  
 
 ---
