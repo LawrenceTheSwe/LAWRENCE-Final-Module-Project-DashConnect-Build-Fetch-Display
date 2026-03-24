@@ -30,5 +30,3 @@ Click the buttons to fetch and display data from each API in a **Netflix-style g
 - **APIs** – Dog CEO, The Cat API, PokeAPI, GitHub API, Public APIs JSON, Official Joke API  
 
 ---
-
-## 📂 Project Structure
